@@ -1,0 +1,27 @@
+@import "null.css";
+
+body {
+	color: #500472;
+}
+
+.page__origin {
+	color: #ed3572;
+}
+.page__origin span {
+	color: #500472;
+}
+
+.page__origin h2 {
+	color: #da68a0;
+}
+
+.page__album {
+	color: indigo;
+}
+
+.page__next {
+	color: olive;
+}
+.page__next p:last-child {
+	color: orchid;
+}
